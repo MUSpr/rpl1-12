@@ -400,7 +400,7 @@ function let2num($char) {
 	else if ($char == 'G')
 		return 7;
 	else
-		die("WHOOPS");
+		die("errorrr");
 }
 
 class util {
